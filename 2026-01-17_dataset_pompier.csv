@@ -1,0 +1,318 @@
+annee_hommage,nom,prenom,grade,grade_normalise,statut,unité SDIS ou corps,sdis,département,genre,age_deces,date_officiel_deces
+2025,BAILLY,Clément,Adjudant,Adjudant,SPV,CIS La Chapelle en Serval,SDIS 60,60,M,33,2025-01-07
+2025,JARRY,Guillaume,Sergent-chef,Sergent-chef,SPV,CIS Bras d'Assas,SDIS 04,4,M,28,2025-05-18
+2025,CORNU,Mathieu,Sergent,Sergent,SPV,CIS de Marquise,SDIS 62,62,M,25,2025-11-24
+2025,GALLE,Franck,Adjudant-chef,Adjudant-chef,,CIS Joué-lès-Tours Sud Agglo,SDIS 37,37,M,52,2025-01-28
+2025,BREZAULT,Michael,Adjudant-chef,Adjudant-chef,,CIS Bergerac,SDIS 24,24,M,53,2025-06-03
+2025,MOREAU,Jonathan,1 classe,1 classe,SPV,CIS Lude,SDIS 72,72,M,35,2025-07-18
+2025,VILNET,Clément,Sergent,Sergent,SPP,CIS Reims,SDIS 51,51,M,35,2025-01-23
+2025,MOSIN,Tangui,Caporal,Caporal,SPV,CIS La Fère,SDIS 02,2,M,22,2025-06-09
+2025,PRUD'HOMME,Maxime,Caporal,Caporal,SPP,CIS La Fère - Hirson,SDIS 02,2,M,23,2025-06-09
+2024,FONTAINE,Jérémie,Adjudant,Adjudant,SPV,CIS Trélou-sur-Marne,SDIS 02,2,M,35,2024-02-10
+2024,GAUTIER,Solène,Sapeur-pompier volontaire saisonnière,Sapeur-pompier volontaire saisonnière,,CIS Plouhinec,SDIS 56,56,F,22,2024-08-24
+2024,GARING,Michael,,,SPV,CIS Thervay,SDIS 39,39,M,42,2024-08-01
+2024,JULIEN,Barbara,,,,CIS Castres,SDIS 81,81,F,21,2024-12-03
+2024,JEAN-MARIE,Gilbert,Sapeur,Sapeur,,CIS Val de Rhins (Régny),SDIS 42,42,M,50,2024-11-04
+2024,LENOIR,Loïc,Sergent,Sergent,,CIS Pontorson-le-Mont,SDIS 50,50,M,59,2024-08-18
+2024,PENNACCHIOLI,François,Adjudant-chef,Adjudant-chef,SPP,CIS Guignes,SDIS 77,77,M,63,2024-01-31
+2023,GODICHEAU,Flavien,Adjudant,Adjudant,SPV,CIS Tiercé les Trois-Rivières,SDIS 49,49,M,26,2023-02-17
+2023,LABARRE,Manon,Caporale,Caporal,SPV,CIS Culan,SDIS 18,18,F,19,2023-07-15
+2023,CARON,Brice,1ere classe militaire,1ere classe militaire,Militaire,BSPP,BSPP,973,M,27,2023-03-29
+2023,MASSARDIER,Baptiste,Sergent,Sergent,SPP,CIS Montbrison,SDIS 42,42,M,40,2023-09-05
+2023,DAMELINCOURT,Dorian,Sergent,Sergent,Militaire et SPV,BSPP,BSPP,75,M,24,2023-07-03
+2023,MAGLOIRE,Laurent,Adjudant,Adjudant,SPP,,SDIS 973,973,M,51,2023-12-04
+2022,VANGREVELINGHE,Willy,Adjudant-chef,Adjudant-chef,SPP,CIS de Chauny,SDIS 02,2,M,52,2022-01-04
+2022,ROCHER,Thomas,Sergent-chef,Sergent-chef,SPV,CIS de La Couronne et CIS Baignes,SDIS 16,16,M,34,2022-06-23
+2022,MORIN,Martial,Adjudant,Adjudant,SPV,CIS de Tain l'Hermitage,SDIS 26,26,M,54,2022-07-27
+2022,ETTORI,Christophe,Caporal,Caporal,SPP,CIS de Rizzanese,SDIS 2A,2A,M,36,2022-01-12
+2022,PERARD,Thierry,Sergent,Sergent,SPP,CIS de Monaco,"État Major - Centre de Secours Principal ""La Condamine""",98000,M,52,2022-06-19
+2022,DUPERTHUY,Laurent,Sapeur,Sapeur,,CIS de Saint Gervais les Bains,SDIS 74,74,M,61,2022-11-27
+2022,LESSORT,Jean-Pierre,Adjudant,Adjudant,SPP,CIS Saint-Denis,SDIS 974,974,M,60,2022-06-09
+2022,ALLAIRE,Pascal,Capitaine,Capitaine,,CIS Saint-Lyphard,SDIS 44,44,M,51,2022-08-05
+2021,DELBREIL,Laurent,Adjudant,Adjudant,SPV,CIS Mirecourt,SDIS 88,88,M,49,2021-01-13
+2021,RIMBAUT,Bryan,Caporal,Caporal,SPV,CIS Feuquières-en-Vimeu,SDIS 80,80,M,23,2021-03-17
+2021,CALLARD,Bruno,Adjudant-chef,Adjudant-chef,SPV,CIS Saint-Brevin-les-Pins,SDIS 44,44,M,60,2021-07-06
+2021,ABGRALL,Mathieu,Adjudant,Adjudant,,CIS Camaret-sur-Mer et Crozon,SDIS 29,29,M,36,2021-12-01
+2021,ACCOLAS,Jean-Paul,Adjudant-chef,Adjudant-chef,SPV,CIS de Givors,SDMIS 69,69,M,50,2021-01-24
+2021,VIDAL,Cédric,Caporal-chef,Caporal-chef,Militaire et SPV,BSPP,BSPP,2,M,35,2021-04-04
+2021,ALMEIDA,Justin,Sapeur,Sapeur,SPV,CIS de Rambouillet,SDIS 78,78,M,19,2021-04-30
+2021,MATAITAUA,Naili,Sapeur de 1ere classe,Sapeur, ,CIS de Mahina,SDIS 973,973,M,35,2021-01-23
+2021,DOLAT,Pascal,Adjudant-chef,Adjudant-chef,,CIS de Voulx,SDIS 77,77,M,54,2021-04-09
+2021,BONNARD,Pierre-François,Mécanicien opérateur,Mécanicien opérateur,,Base Hélicoptère Dragon de Grenoble,SECURITE CIVILE,38,M,42,2021-09-12
+2020,TETUAEARO,Josette,Caporal-cheffe,Caporal,SPP,CIS de Papara,SDIS 987,987,F,51,2020-02-06
+2020,ENCOGNERE,Gil,Sergent-Chef,Sergent-Chef,SPV,CIS de Lacanau,SDIS 33,33,M,50,2020-04-24
+2020,BEAUVAIS,Guillaume,Caporal,Caporal,SPV,CIS Le Lonzac,SDIS 19,19,M,35,2020-10-07
+2020,CAPELA,Olivier,Adjudant-chef,Adjudant-chef,,CIS d'Issigeac,SDIS 24,24,M,38,2020-11-12
+2020,MOUTAMA,José,Caporal,Caporal,SPV,CIS de Schoelcher,SDIS 972,972,M,51,2020-03-08
+2020,KOHLHUBER,Bruno,Capitaine,Capitaine,SPP,,SDIS 06,6,M,49,2020-10-02
+2020,DA SILVA CABRAL,Thomas,Adjudant,Adjudant,SPP,CIS de Nice - Saint Isidore,SDIS 06,6,M,41,2020-10-09
+2020,SCAFFA,Steeve,Forestier Sapeur,Forestier Sapeur,,CIS de Saint-Auban,SDIS 06,6,M,34,2020-03-18
+2020,MILLO,Loïc,Sapeur-pompier,Sapeur-pompier,SPV,,SDIS 06,6,M,32,2020-10-02
+2020,MICHAU,Jean-Claude,Maître,Maître,,Bataillon de Marins-Pompiers,BMPM, ,M,38,2020-10-28
+2020,SERKA,Denis,Lieutenant-colonel,Lieutenant-colonel,,SDIS de l'Essonne,SDIS 91,91,M,52,2020-01-18
+2019,BROUILLET,Fabien,Adjudant,Adjudant,SPP,CIS de Genas-Chassieu,SDIS 69,69,M,40,2019-01-26
+2019,EVE,Jessy,Sergent,Sergent,SPP,CIS de Saint-André,SDIS 974,974,M,51,2019-01-27
+2019,MASSIAS,Guillaume,Capitaine,Capitaine,SPP,,SDIS 47,47,M,42,2019-09-06
+2019,CARTANAZ,Simon,Caporal-chef,Caporal-chef,Militaire et SPV,BSPP,BSPP,75,M,28,2019-01-12
+2019,JOSSELIN,Nathanael,Sapeur 1ere classe,Sapeur 1ere classe,Militaire et SPV,BSPP,BSPP,75,M,27,2019-01-12
+2019,GARAT,Jean,Pilote d'hélicoptère,Pilote d'hélicoptère,,Sécurité Civile,SECURITE CIVILE, ,M,47,2019-12-02
+2019,FOULON,Didier,Sergent-chef,Sergent-chef,SPP,,SDIS 77,77,M,51,2019-12-15
+2019,PIME,Bertrand,Sapeur 1ere classe,Sapeur 1ere classe,SPV,,SDIS 988,988,M,49,2019-01-09
+2019,CHESNEAU,Franck,Pilote,Pilote,,Sécurité Civile,SECURITE CIVILE, ,M,49,2019-08-02
+2019,ESCALIN,Michel,Mécanicien opérateur,Mécanicien opérateur,,Sécurité Civile,SECURITE CIVILE, ,M,40,2019-12-02
+2019,SAVORNIN,Norbert,Sergent-chef,Sergent-chef,SPP,,SDIS 13,13,M,44,2019-12-02
+2018,AUGUSTE,Brice,,,,Sécurité Civile,SECURITE CIVILE,,M,39,2017-08-17
+2018,BENOIST,Renaud,Lieutenant,Lieutenant,SPP,CSP de Lannion,SDIS 22,22,M,47,2017-11-05
+2018,SANDRAZ,Robert,Caporal-chef,Caporal-chef,SPV,CIS de La Rochette,SDIS 73,73,M,64,2018-01-04
+2018,COTTREZ,Jonathan,Caporal,Caporal,SPV,CIS de Lillers,SDIS 62,62,M,32,2018-01-07
+2018,DAUCHY,Arnaud,Sapeur-Pompier 1ère Classe,Sapeur-Pompier 1ère Classe,SPV,CIS de Lillers,SDIS 62,62,M,20,2018-01-07
+2018,LASSUS-DAVID,Jonathan,Sergent,Sergent,Militaire et SPV,BSPP,BSPP,94,M,28,2018-01-14
+2018,CABRERA,Vincent,Caporal-Chef,Caporal-Chef,SPV,CIS de Montech,SDIS 82,82,M,39,2018-05-12
+2018,SOULAT,Jean-Michel,Adjudant-Chef,Adjudant-Chef,SPP,CIS de Coutras et CIS de Mussidan,SDIS 33,33,M,49,2018-05-14
+2018,GABLIN,Thomas,Sergent,Sergent,SPV,CIS de La Couyère,SDIS 35,35,M,38,2018-06-10
+2018,CHIOUSSE,Joël,Adjudant-Chef,Adjudant-Chef,SPP,CIS d’Istres,SDIS 13,13,M,54,2018-07-30
+2018,HENRY,Geoffroy,Sapeur 1ère Classe,Sapeur 1ère Classe,Militaire et SPV,BSPP,BSPP,94,M,27,2018-09-04
+2018,THOMAS,Frédéric,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS de Pont d’Ain,SDIS 01,1,M,37,2018-11-01
+2017,TURPIN,Guy,Caporal-chef,Caporal-chef,SPV,CIS de La Chapelle d’Angillon,SDIS 18,18,M,60,2017-05-20
+2017,METEAU,Richard,Sergent-chef,Sergent-chef,SPP,CIS d'Epagny et CPI Saint-Jorioz,SDIS 74,74,M,44,2017-10-17
+2017,LOPEZ,Laurent,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS d’Uzès,SDIS 30,30,M,27,2017-10-19
+2016,GERARD,Vincent,Sapeur de 1ère classe,Sapeur de 1ère classe,SPV,CIS de Bourgueil,SDIS 37,37,M,41,2016-05-10
+2016,DUTREUIL,Dylan,Sapeur de 1ère classe,Sapeur de 1ère classe,SPV,CIS de Crémieu,SDIS 38,38,M,19,2016-05-15
+2016,COLLARD,Bruno,Sergent-chef,Sergent-chef,SPP,CSP de Perpignan et CIS de Pézilla-la-Rivière,SDIS 66,66,M,34,2016-07-13
+2016,GEMET,Boris,Sapeur de 1ère classe,Sapeur de 1ère classe,Militaire et SPV,CIS de Pont-de-Beauvoisin,SDIS 73,73,M,23,2016-08-03
+2016,BEIER,Jérémy,Sapeur 1ère Classe,Sapeur 1ère Classe,SPP,CIS de Saint-Mathieu-de-Treviers,SDIS 34,34,M,24,2016-09-21
+2016,DE JESUS,Jean-Claude,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS de La Celle-St-Cloud,SDIS 78,78,M,52,2016-10-23
+2016,HODEAU,Pascal,Lieutenant,Lieutenant,SPV,CIS de Milly La Forêt,SDIS 91,91,M,53,2016-12-24
+2015,PAGNER,Mickaël,Sergent-Chef,Sergent-Chef,SPP,CIS de Cognac,SDIS 16,16,M,36,2015-03-06
+2015,SALEL,Aurélie,Caporal-Chef,Caporal-Chef,Militaire et SPV,CIS de Bondy et CIS de Sigean,BSPP,75,F,26,2015-03-14
+2015,DUMONT,Florian,Caporal,Caporal,Militaire et SPV,CIS de Bondy et CIS de Meyzieu,BSPP,75,M,25,2015-04-27
+2015,ARNOULD,Jean,Sergent,Sergent,SPP,Etat-Major Groupement territorial Sud,SDIS 78,78,M,59,2015-06-08
+2015,DELIGNY,Dominique,Adjudant-Chef,Adjudant-Chef,SPP,CIS de Saint Pol-Sur-Ternoise,SDIS 62,62,M,49,2015-06-26
+2015,FILIPPI CAPRETTI,Patricia,Caporal,Caporal,SPV,CIS de Le Boulou,SDIS 66,66,F,48,2015-09-18
+2015,SIMON,Fanny,Sapeur 1ère classe,Sapeur 1ère classe,SPV,CIS de Saint-Hippolyte,SDIS 25,25,F,19,2015-09-20
+2014,PELLET,Franck,Sapeur Sauveteur,Sapeur Sauveteur,,UIISC n°7,UIISC n°7,83,M,21,2014-02-28
+2014,RIBOULET-OWCA,Jérémy,Caporal-Chef,Caporal-Chef,SPV,CIS de Souppes-sur-Loing,SDIS 77,77,M,29,2014-03-19
+2014,HARTZEIM,Bruno,Sapeur 1ère classe,Sapeur 1ère classe,SPV,CP Intervention de Chenevières,SDIS 54,54,M,47,2014-04-13
+2014,DUMAZET,Thierry,Adjudant-Chef,Adjudant-Chef,SPV,Chef du CS de Saint-André-le-Coq,SDIS 63,63,M,50,2014-07-18
+2014,BRISOTTO,Didier,Adjudant-Chef,Adjudant-Chef,SPP et SPV,Saint-Georges-de-Reneins/Belleville-sur-Saône et CIS de Denice,SDIS 69,69,M,54,2014-12-16
+2013,BERSON,Guillaume,Sergent-Chef,Sergent-Chef,SPP,CSP d'Orléans Sud,SDIS 45,45,M,40,2013-01-19
+2013,RIOU,Jimmy,Caporal,Caporal,SPV,CIS de Dunières,SDIS 43,43,M,21,2013-02-05
+2013,LACROIX,Serge,Adjudant,Adjudant,SPP,CIS de Bully les Mines,SDIS 62,62,M,55,2013-03-04
+2013,CAYATTE,Paul-Guillaume,Lieutenant,Lieutenant,SPP,CIS d'Antibes,SDIS 06,6,M,50,2013-06-13
+2013,THIERRY,Yoann,Sergent,Sergent,SPV,CIS de Bouloire,SDIS 72,72,M,33,2013-07-14
+2013,ROBINAUT,Julien,Caporal Chef,Caporal,SPP,CIS de Chartres,SDIS 28,28,M,32,2013-01-23
+2013,ROUÉ,Robert,Sergent Chef,Sergent,SPP,SDIS Finistère,SDIS 29,29,M,56,2013-01-29
+2013,BARRY,Michel,PATS,PATS,SPV,CIS d'Aubagne,SDIS 13,13,M,62,2013-09-27
+2013,MAPERI,Élodie,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS de Thio,SDIS 988,98,F,22,2013-11-06
+2013,THOMAS,Eric,Caporal,Caporal,SPP,CIS de Mitry-Mory,SDIS 77,77,M,28,2013-11-21
+2013,LABETOULLE,Jean-Louis,Lieutenant,Lieutenant,SPP,CIS d'Houdan,SDIS 78,78,M,58,2013-12-01
+2012,CARRIÈRE,Philip,Sapeur,Sapeur,SPV,CIS de Saint Martin de Crau,SDIS 13,13,M,42,2012-03-06
+2012,DI MANNO,Anthony,Caporal-Chef,Caporal-Chef,SPV,CIS de Largentière,SDIS 07,7,M,28,2012-03-15
+2012,CHAZALLET,Alexandre,Caporal-Chef,Caporal-Chef,SPV,CIS de Burzet,SDIS 07,7,M,30,2012-03-27
+2012,VALANCE,Sabine,Major,Major,SPP,CIS de Neuves Maisons,SDIS 54,54,F,46,2012-05-03
+2012,CHAUSSAT,Christophe,Adjudant-Chef,Adjudant-Chef,SPV,CSP d'Aubusson,SDIS 23,23,M,37,2012-05-27
+2012,REVERSE,Laurent,Sapeur,Sapeur,SPV,CIS de Valenciennes,SDIS 59,59,M,19,2012-06-29
+2012,VIGNAROLI,Yvan,Lieutenant,Lieutenant,SPV,CIS de Gardanne,SDIS 13,13,M,60,2012-09-25
+2012,GARCIA,Guy,Caporal Chef,Caporal,SPV,CIS de Saint Laurent de la Salanque,SDIS 66,66,M,59,2012-10-06
+2012,BAGHIONI,Mickaël,Sergent,Sergent,SPP,CIS de Digne les bains,SDIS 04,4,M,35,2012-11-04
+2012,SIMEONI,Yann,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS de Digne les bains,SDIS 04,4,M,16,2012-11-04
+2012,LUCYK,Lionel,Caporal-Chef,Caporal-Chef,SPP,CIS de Saint-Nazaire,SDIS 44,44,M,38,2012-11-11
+2012,ROMANIELLO,Christian,Sergent Chef,Sergent,SPP,CIS de Menton,SDIS 06,6,M,51,2012-05-11
+2012,POULON,Bernard,PATS,PATS,,SDIS,SDIS 17,17,M,58,2012-11-01
+2011,BEY,Didier,Caporal Chef,Caporal,SPV,CSP de Besançon,SDIS 25,25,M,41,2011-01-27
+2011,LESTONNAT,Christian,PATS,PATS,,SDIS de la Gironde,SDIS 33,33,M,54,2011-03-10
+2011,DUPUY,Bernard,Caporal Chef,Caporal,SPV,CSP de la Rochefoucauld,SDIS 16,16,M,44,2011-04-02
+2011,HAUDIDIER,Pierrick,Médecin-capitaine,Médecin-capitaine,,CIS de La Terrasse - Saint Etienne,SDIS 42,42,M,39,2011-06-18
+2011,BRUN,Alain,Major,Major,SPV,Commission Sociale d'Annot,SDIS 04,4,M,60,2011-06-29
+2011,FEDOU,Sébastien,Sapeur 1ère Classe,Sapeur 1ère Classe,SPV,CS d'Annot,SDIS 04,4,M,27,2011-06-29
+2011,PIEROT,Julien,Caporal Chef,Caporal,SPP,CSP Neufchâteau,SDIS 88,88,M,37,2011-07-19
+2011,MAYE,Emmanuel,Sapeur,Sapeur,SPV,CIS de la Mothe-Saint-Heray,SDIS 79,79,M,19,2011-09-13
+2011,JACOB,Frédéric,Lieutenant,Lieutenant,SPV,CIS de Gueugnon,SDIS 71,71,M,41,2011-10-22
+2011,LEYENDECKER,Didier,Caporal,Caporal,SPV,CI de Fribourg,SDIS 57,57,M,40,2010-10-22
+2011,PERRIN,Damien,Sapeur,Sapeur,SPV,CIS de Saint Savin,SDIS 86,86,M,23,2011-12-07
+2011,MEONI,Gilles,Sergent,Sergent,SPP,CSP de Cannes la Bocca,SDIS 06,6,M,54,2011-12-07
+2010,COUTURIER,Sébastien,Caporal Chef,Caporal,SPP,CIS de La Rochelle-Mireuil,SDIS 17,17,M,33,2010-01-18
+2010,RICHARD,Jean-Charles,Sergent-Chef,Sergent-Chef,SPP,CSP d’Avignon,SDIS 84,84,M,47,2010-04-06
+2010,DELERS,REGIS,Caporal-Chef,Caporal-Chef,SPV,CSP d’Orange,SDIS 84,84,M,44,2010-06-05
+2010,LEDOUX,Renaldo,Major,Major,SPV,CIS d'Oraison,SDIS 04,4,M,38,2010-07-10
+2010,LE VOUEDEC,François,Caporal,Caporal,SPP,CIS d'Hennebont,SDIS 56,56,M,29,2010-08-18
+2010,BERGER,Éric,Adjudant,Adjudant,SPP,CODIS,SDIS 19,19,M,47,2010-08-22
+2010,SAGET,Nicolas,Caporal Chef,Caporal,SPV,CS de Coullons,SDIS 45,45,M,34,2010-11-07
+2010,DESMAREST,Sylvain,Sergent Chef,Sergent,SPP,CSP de Granville,SDIS 50,50,M,49,2010-11-19
+2010,SIMON,Jean-Luc,Adjudant-chef,Adjudant-chef,SPV,CIS de Marolles-les-Braults,SDIS 72,72,M,42,2010-12-05
+2010,BROC,René,Sergent,Sergent,SPV,CIS de Prades,SDIS 66,66,M,44,2010-12-05
+2010,AUGEREAU,Christophe,Sergent,Sergent,SPP,CIS de Saint Herblain,SDIS 44,44,M,31,2010-12-15
+2010,SORIN,Jean-Charles,Caporal,Caporal,SPP,CIS de Saint Herblain,SDIS 44,44,M,25,2010-12-15
+2010,BOUTEILLON,Florent,Caporal Chef,Caporal,SPV,CIS de Taulignan,SDIS 26,26,M,46,2010-12-25
+2009,VANDAELE,Philippe,Major,Major,SPP,CSP d’Avranches,SDIS 50,50,M,47,2009-01-16
+2009,SOREL,Thierry,Adjudant-Chef,Adjudant-Chef,SPV,CIS d’Amfreville la Campagne,SDIS 27,27,M,46,2009-01-21
+2009,VANDERME,Thierry,Caporal-Chef,Caporal-Chef,SPV,CIS d’Hauteville,SDIS 01,1,M,39,2009-03-13
+2009,PONSARD,Cédric,Infirmier,Infirmier,SPP,SSSM – Etat-Major,SDIS 01,1,M,30,2009-03-13
+2009,DUCHAZEAUBENEIX,Christophe,Commandant,Commandant,SPP,État-major de l’Ain,SDIS 01,1,M,40,2009-03-13
+2009,VIROT,Eric,Caporal-Chef,Caporal,SPP,CIS de Belley,SDIS 01,1,M,32,2009-03-18
+2009,METAIS,Philippe,Pilote,Pilote,,Sécurité Civile,SÉCURITE CIVILE,,M,42,2009-04-25
+2009,LOPEZ-GUIA,Michel,Mécanicien opérateur de bord,Mécanicien opérateur de bord,,Sécurité Civile,SECURITE CIVILE,,M,56,2009-04-25
+2009,PATOU,Christian,Major,Major,SPV,CS de Chabris,SDIS 36,36,M,56,2009-05-30
+2009,ESPIRE,Patrick,Caporal-Chef,Caporal-Chef,SPV,CIS de Moulins Engilbert,SDIS 58,58,M,45,2009-06-17
+2009,LETAN,Arnaud,Sapeur-Pompier,Sapeur-Pompier,SPP,CIS de Bernay,SDIS 27,27,M,25,2009-07-20
+2009,FOREST,Jean-Michel,Lieutenant,Lieutenant,SPV,CIS de Feurs,SDIS 42,42,M,42,2009-10-22
+2009,COLLIN,Lionel,Sapeur,Sapeur,SPV,CIS de Luceram,SDIS 06,6,M,25,2009-10-27
+2009,HOCHET,Damien,Adjudant,Adjudant,SPP,CIS d’Hennebont,SDIS 56,56,M,40,2009-12-23
+2009,MICHAUD,Sylvain,Capitaine,Capitaine,SPP,CSP Lons-le-Saunier,SDIS 3S,39,M,36,2009-03-27
+2009,BANDERIER,Eric,Adjudant Chef,Adjudant,SPP,CSP Lons-le-Saunier,SDIS 39,39,M,45,2007-03-31
+2009,FASSINA,Eric,Sergent,Sergent,SPP,CIS de La Metare,SDIS 42,42,M,43,2003-10-30
+2008,ABBES,Stéphane,Sergent Chef,Sergent,SPP,SDIS du Rhône,SDIS 69,69,M,35,2008-02-28
+2008,LE POTIER,Marcel,Adjudant-Chef,Adjudant-Chef,SPP,CIS de Saint Brieuc,SDIS 22,22,M,41,2008-03-06
+2008,GAUTHIER,Alexandre,Sapeur-Pompier,Sapeur-Pompier,SPP,CIS de Saint Cyprien,SDIS 24,24,M,25,2008-03-13
+2008,SINOIR,Pascal,Sapeur-Pompier 1ère classe,Sapeur-Pompier,SPV,CIS de Routot,SDIS 27,27,M,50,2008-03-22
+2008,GAUTHIER,Virginie,Sapeur-Pompier 1ère classe,Sapeur-Pompier,SPV,CIS de Séderon et Mollans sur Ouvèze,SDIS 26,26,F,25,2008-04-07
+2008,PASQUIER,Olivier,Caporal,Caporal,SPP,CIS de Soissons,SDIS 02,2,M,25,2008-07-25
+2008,SIRI,Jean-Paul,Adjudant-Chef,Adjudant-Chef,SPP,CIS de Sanary,SDIS 83,83,M,54,2008-01-03
+2008,RIZZA,Antoine,Adjudant,Adjudant,SPP,CIS de Nemours,SDIS 77,77,M,52,2008-09-11
+2008,ROCHEDIX,David,Sergent-Chef,Sergent-Chef,SPV,CIS de Sollies Pont,SDIS 83,83,M,37,2008-11-10
+2008,NAVARRETTE,Jacques,Adjudant-Chef,Adjudant-Chef,SPV,CIS de Hagondange,SDIS 57,57,M,47,2008-11-29
+2008,GATEAU,Jérôme,Sapeur-Pompier,Sapeur-Pompier,SPV,CIS de Narbonne,SDIS 11,11,M,35,2008-12-27
+2007,SOMEIL,Romaric,Sergent Chef,Sergent,SPV,CIS de BAS EN BASSET,SDIS 43,43,M,32,2007-06-10
+2007,MONTELYMARD,Jacques,Sapeur-Pompier 1ère Classe,Sapeur-Pompier,SPV,CIS D’ANNONAY,SDIS 07,7,M,38,2007-07-25
+2007,GRELLIER,Elodie,Sapeur-Pompier,Sapeur-Pompier,SPV,CIP de CERSAY,SDIS 79,79,F,18,2007-08-28
+2007,CAZALILLA,Antoine,Sapeur-Pompier 2ème cl,Sapeur-Pompier,SPV,CIS des Adrets,SDIS 83,83,M,27,2007-09-08
+2007,BORGA,Laurent,Sapeur-Pompier,Sapeur-Pompier,SPP,CIS de St Rémy de Provence,SDIS 13,13,M,29,2007-09-12
+2007,HOSDEZ,Daniel,Sergent-Chef,Sergent-Chef,SPV,CIS de Bailleul,SDIS 59,59,M,34,2007-10-10
+2007,MERCIER,Matthieu,Caporal-chef,Caporal,SPV,BSPP,BSPP,75,M,23,2007-11-17
+2007,MARTIN,Ludovic,Caporal,Caporal,SPV,BSPP,BSPP,75,M,21,2007-11-17
+2007,LIVERDON,Guillaume,Quartier-Maître Marin Pompier,Quartier-Maître,Militaire,BMPM,BMPM,13,M,23,2007-12-08
+2006,BENEDI,Manuel,Sapeur 1ère Classe,Sapeur-Pompier,SPP,CSP de HIRSON,SDIS 02,2,M,30,2006-01-01
+2006,PAILOT,Grégory,Sergent,Sergent,SPP,CIS de COLOMBES,BSPP,75,M,22,2006-01-06
+2006,ARÈNE,Bernard,Adjudant Chef,Adjudant-Chef,SPP,CSP de CAVAILLON,SDIS 84,84,M,43,2001-04-21
+2006,PETIT,Pascal,Caporal,Caporal,SPP,CIS de SAMOENS,SDIS 74,74,M,31,2006-03-22
+2006,CERIZIER,Jean-Luc,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS d'AUREC SUR LOIRE,SDIS 43,43,M,36,2006-03-25
+2006,FAVRE-ROCHEX,Didier,Pilote,Pilote,,BASE AÉRIENNE DE PAU,SÉCURITÉ CIVILE,64,M,42,2006-06-05
+2006,DUCOUT,Jean-Luc,Opérateur de Bord,Opérateur de Bord,,BASE AÉRIENNE DE PAU,SÉCURITÉ CIVILE,64,M,47,2006-06-05
+2006,LABAT,Christian,Caporal Chef,Caporal,SPV,CIS de LIMONS,SDIS 63,63,M,51,2006-07-14
+2006,MAURIN,Patrick,Caporal Chef,Caporal,SPV,CIS de ROQUEVAIRE,SDIS 13,13,M,43,2006-07-24
+2006,MACOUIN,Emmanuelle,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de COURCELLES-CHAUSSY,SDIS 57,57,F,18,2006-08-02
+2006,GILLET,François,Adjudant,Adjudant,SPV,CIS de PUGET VILLE,SDIS 83,83,M,48,2006-08-15
+2006,ABAD,Alain,Sergent,Sergent,SPV,CIS de PUGET VILLE,SDIS 83,83,M,42,2006-08-15
+2006,VELLA,Jonathan,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de PUGET VILLE,SDIS 83,83,M,21,2006-08-15
+2006,CHOCTEAU,Guillaume,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de BRETTEVILLE SUR LAIZE,SDIS 14,14,M,31,2006-08-19
+2006,LEMAIRE,Pierre,Caporal Chef,Caporal,SPV,CIS de SANTES,SDIS 59,59,M,42,2006-12-10
+2005,LE GOUILL,Mathieu,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de CHATEAULIN,SDIS 29,29,M,24,2005-01-09
+2005,MILLIEROUX,Marc,Caporal Chef,Caporal,SPV,CIS de d'ARCHIAC,SDIS 17,17,M,53,2005-03-03
+2005,ARROYO,Jean-Michel,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de TOURNAY,SDIS 65,65,M,29,2005-03-12
+2005,MARIN,Jean-Luc,Lieutenant,Lieutenant,SPV,CIS de POMPEY,SDIS 54,54,M,56,2005-06-21
+2005,BOURIETTE,Christian,Caporal Chef,Caporal,SPV,CIS d'OSSUN,SDIS 65,65,M,45,2005-06-26
+2005,PIOUX,Emmanuel,Lieutenant,Lieutenant,SPV,CIS de Tannay,SDIS 58,58,M,47,2005-07-17
+2005,OUDARD,Michel,Adjudant Chef,Adjudant-Chef,SPV,CIS de Tannay,SDIS 58,58,M,54,2005-07-17
+2005,GROPEAUX,Philippe,Sergent,Sergent,SPV,CIS de Tannay,SDIS 58,58,M,39,2005-07-17
+2005,DUCOUP,Jean-Luc,Caporal Chef,Caporal,SPV,CIS de MIRAMONT de GUYENNE,SDIS 47,47,M,40,2005-07-28
+2005,PIASENTIN,Ludovic,Pilote,Pilote,,BASE de MARIGNANE,SÉCURITÉ CIVILE,13,M,49,2005-08-01
+2005,de BENEDICT,Jean-Louis,CoPilote,CoPilote,,BASE de MARIGNANE,SÉCURITÉ CIVILE,13,M,55,2005-08-01
+2005,CLIGNY,Pascal,Adjudant,Adjudant,SPV,CS de SENAS,SDIS 13,13,M,53,2005-08-17
+2005,BAS,Philippe,Caporal Chef,Caporal,SPP,CS de CHERBOURG,SDIS 50,50,M,43,2005-08-19
+2005,HUILLIER,Régis,Pilote Instructeur,Pilote,,BASE de MARIGNANE,SÉCURITÉ CIVILE,13,M,45,2005-08-20
+2005,POUZOULET,Albert,Pilote,Pilote,,BASE de MARIGNANE,SÉCURITÉ CIVILE,13,M,43,2005-08-20
+2005,DURAND,Laurine,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de CHATENOIS,SDIS 88,88,F,20,2005-08-25
+2005,LEROUGE,Éric,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS de TOURNUS,SDIS 71,71,M,41,2005-09-04
+2005,CLERMIDY,Fabien,Caporal,Caporal,SPP,CIS de TOURNUS,SDIS 71,71,M,29,2005-09-04
+2005,VANDESOMPELE,Marc,Capitaine,Capitaine,SPP,CIS de PÉRONNE,SDIS 80,80,M,55,2005-09-21
+2005,TAROT,Alain,Adjudant Chef,Adjudant-Chef,SPP,DDSIS de la SARTHE,SDIS 72,72,M,45,2005-10-06
+2005,CARÊME,Georges,Caporal Chef,Caporal,SPV,CIS de ST GEORGES DE L'OYAPOCK,SDIS 973,973,M,58,2005-10-17
+2005,BOUET,Marc,Adjudant,Adjudant,SPP,CIS de CAEN CANADA,SDIS 14,14,M,46,2005-11-18
+2005,FABREGUE-TONDU,Alexandra,Sapeur 2ème Classe,Sapeur-Pompier,SPV,CIS de MIRIBEL,SDIS 01,1,F,30,2005-12-22
+2004,FAVIER,Zora,Sapeur 2ème Classe,Sapeur-Pompier,SPV,CPI de GEOVREISSIAT,SDIS 01,1,F,42,2004-01-10
+2004,PLOYET,Jean-Michel,Sapeur 2ème Classe,Sapeur-Pompier,SPV,CIS de SURZUR,SDIS 56,56,M,41,2004-02-02
+2004,BEAUVAIS,Jean,Pilote,Pilote,Militaire,Base de Canadairs de Marignane,SÉCURITÉ CIVILE,13,M,54,2004-03-08
+2004,LATY,Jean-Pierre,Copilote,Copilote,Militaire,Base de Canadairs de Marignane,,13,M,25,2004-03-08
+2004,DEGREMONT,Dominique,Caporal Chef,Caporal,SPV,Centre d'Intervention de Walincourt,SDIS 59,59,M,43,2004-03-10
+2004,OUIDIR,Omar,Sergent,Sergent,SPV,CIS de Lisieux,SDIS 14,14,M,27,2004-05-22
+2004,COSTA,Gérard,Major,Major,SPP,Centre d'Intervention de Tréguier,SDIS 22,22,M,57,2004-06-11
+2004,MAINGUY,Dominique,Adjudant,Adjudant,SPP,CIS de Saint-Herblain,SDIS 44,44,M,50,2004-06-17
+2004,PIVERT,Didier,Caporal,Caporal,SPV,CIS de Lezigne-Durtal,SDIS 49,49,M,34,2004-07-11
+2004,VERY,Georges,Adjudant,Adjudant,SPV,UIISC n°1,SÉCURITÉ CIVILE,28,M,41,2004-08-04
+2004,GAUSSERAND,Jacques,Major,Major,SPP,CIS de Montaigu,SDIS 85,85,M,55,2004-08-07
+2004,MIROUX,Claude,Sergent,Sergent,SPP,CIS Principal de Cambrai,SDIS 59,59,M,48,2004-08-08
+2004,STEFANUTTI,Ivan,Sergent,Sergent,SPP,CIS de Neufmaisons,SDIS 54,54,M,42,2004-09-23
+2004,LEVASSEUR,Joël,Adjudant,Adjudant,SPV,CIS de BUCHY,SDIS 76,76,M,56,2004-11-24
+2004,HOUBERDON,Angélique,Sapeur 1ère Classe,Sapeur-Pompier,SPV,CIS d'Épinal,SDIS 88,88,F,26,2004-12-23
+2003,BONNET,Philippe,Adjudant-Chef Professionnel,Adjudant-Chef,SPP,CSP d'AMIENS,SDIS 80,80,M,49,2002-01-01
+2003,LABBE,Pierre,Sergent Chef Volontaire,Sergent,SPV,CPI de PLUMAUGAT,SDIS 22,22,M,39,2003-01-28
+2003,SAVOURET,Pierre,Lieutenant-Colonel Professionnel,Lieutenant-Colonel,SPP,DDSIS,SDIS 13,13,M,51,2003-01-31
+2003,EXERTIER,Joël,Sergent Chef Volontaire,Sergent,SPV,CPI de MERY,SDIS 73,73,M,45,2003-02-22
+2003,JOUSSEMET,Stéphane,Sapeur 1ère Classe Volontaire,Sapeur,SPV,CIS de L'AIGUILLON SUR MER,SDIS 85,85,M,25,2003-03-02
+2003,MOREL,Luc,Adjudant Chef Volontaire,Adjudant-Chef,SPV,CIS de CHÂTEL SUR MOSELLE,SDIS 88,88,M,42,2003-04-20
+2003,CAUSSAT,Jean-Bernard,Sergent Chef Volontaire,Sergent,SPV,CIS de GRENADE,SDIS 31,31,M,35,2003-06-20
+2003,SAGANTA,Thierry,Sapeur 1ère Classe,Sapeur,SPV,BSPP,BSPP,75,M,20,2003-08-25
+2003,GIOVANNINI,Michel,Sergent-Chef Volontaire,Sergent,SPV,CIS de LA SEYNE SUR MER,SDIS 83,83,M,43,2003-09-02
+2003,LAHAYE,Georges,Sergent Professionnel,Sergent,SPP,CIS de LA SEYNE SUR MER,SDIS 83,83,M,42,2003-09-02
+2003,ZEDDA,Patrick,Sapeur Volontaire,Sapeur,SPV,CIS de LA SEYNE SUR MER,SDIS 83,83,M,37,2003-09-02
+2003,VIVIEN,Luc,Sapeur 1ère Classe Volontaire,Sapeur,SPV,CSP d'AIX EN PROVENCE,SDIS 13,13,M,52,2003-09-29
+2003,PERRIER,Stéphane,Caporal Volontaire,Caporal,SPV,CIS de FERRIÈRES,SDIS 45,45,M,32,2003-09-29
+2003,TOUSSAINT,Jérôme,Sapeur 1ère Classe Volontaire,Sapeur,SPV,CIS de BUCHY,SDIS 76,76,M,28,2003-11-12
+2003,PLET,Yves,Major,Major,,CSP de ABBEVILLE,SDIS 80,80,M,51,2003-12-29
+2002,DUFERMONT,Mickaël,Caporal Professionnel,Caporal,SPP,Corps Départemental de Roubaix,SDIS 59,59,M,27,2002-01-06
+2002,DUFOUR,Patrice,Major Professionnel,Major,SPP,CIS de DUNKERQUE,SDIS 59,59,M,51,2002-01-12
+2002,DASSONVAL,Jean-Pierre,Caporal Chef Volontaire,Caporal-Chef,SPV,CIS de LILLERS,SDIS 62,62,M,53,2002-01-25
+2002,ZAVANI,Jean,Caporal Chef Professionnel,Caporal-Chef,SPP,CIS de PROPRIANO,SDIS 2A,2A,M,50,2002-02-11
+2002,ROZO,Gérard,Adjudant Volontaire,Adjudant,SPV,CS de CHÂTEAU SALINS,SDIS 57,57,M,52,2002-07-11
+2002,MASSAT,Stéphan,Caporal Chef Professionnel,Caporal-Chef,SPP,CSP de MURET,SDIS 31,31,M,30,2002-07-11
+2002,COLLENNE,David,Caporal Volontaire,Caporal,SPV,CI de GOLBEY,SDIS 88,88,M,26,2002-07-29
+2002,HUBOUD-PERRON,Samuel,Caporal Professionnel,Caporal,SPP,CSP de MENTON,SDIS 06,6,M,33,2002-07-29
+2002,LE CARO,Lionel,Caporal Chef Volontaire,Caporal-Chef,SPV,CSP de MONTBARD,SDIS 21,21,M,51,2002-08-20
+2002,BARASCUD,Dominique,Sergent-Chef Volontaire,Sergent,SPV,CSP de ST-MATHIEU DE TREVIERS,SDIS 34,34,M,43,2002-09-10
+2002,GABREAU,Thomas,Sergent,Sergent,,CIS CHAMPERRET,BSPP,75,M,27,2002-09-14
+2002,IRIGOIN,Matthieu,Caporal,Caporal,,CIS CHAMPERRET,BSPP,75,M,23,2002-09-14
+2002,LARMINIER,Benoît,Sapeur,Sapeur,,CIS CHAMPERRET,BSPP,75,M,22,2002-09-14
+2002,MOTTIN,Romuald,Caporal,Caporal,,CIS CHAMPERRET,BSPP,75,M,24,2002-09-14
+2002,PILORGE,Gwénael,Caporal,Caporal,,CIS CHAMPERRET,BSPP,75,M,23,2002-09-14
+2002,CHARDON,Jean-Renaud,Sapeur 1ère Classe Volontaire,Sapeur,SPV,CSP de TOULON,SDIS 83,83,M,31,2002-09-20
+2002,CAILLIERE,Christophe,Sapeur Volontaire,Sapeur,SPV,CIS de MENNETOU SUR CHER,SDIS 41,41,M,39,2002-11-09
+2002,DELAYEN,Aline,Sapeur Volontaire,Sapeur,SPV,CIS de BERGERAC,SDIS 24,24,F,24,2002-11-23
+2002,DUVEAU,Eric,Sapeur Volontaire,Sapeur,SPV,CIS de LORIOL,SDIS 26,26,M,40,2002-11-29
+2002,DUC,Patrick,Sapeur Volontaire,Sapeur,SPV,CIS de LORIOL,SDIS 26,26,M,44,2002-11-29
+2002,BOURGEAT,Didier,Sapeur Volontaire,Sapeur,SPV,CIS de LORIOL,SDIS 26,26,M,31,2002-11-29
+2002,GARRIDO,José,Sapeur Volontaire,Sapeur,SPV,CIS de LORIOL,SDIS 26,26,M,53,2002-11-29
+2002,BROQUET,Laurent,Sapeur Volontaire,Sapeur,SPV,CIS de LORIOL,SDIS 26,26,M,26,2002-11-29
+2001,DESFOSSEZ,Christophe,2ème Classe Professionnel,2ème Classe,SPP,CIS de LOGNES,SDIS 77,77,M,27,2000-11-22
+2001,INVERNIZZI,André,Sapeur-Pompier Volontaire,Sapeur,SPV,CSP d'ISTRES,SDIS 34,13,F,34,2001-01-12
+2001,FLESCH,Philippe,Sapeur-Pompier 2ème Classe Professionnel,2ème Classe,SPP,CIS de COLMAR,SDIS 29,68,M,29,2001-01-19
+2001,BRIFFAUD,Roger,Caporal Chef Volontaire,Caporal-Chef,SPV,CIS de la CAILLERE SAINT HILAIRE,SDIS 53,85,M,53,2001-02-04
+2001,COLAS,Patrick,Adjudant Volontaire,Adjudant,SPV,CIS de BAR SUR SEINE,SDIS 42,10,M,42,2001-02-10
+2001,GOSSE,Yann,Second Maître,Second Maître,Militaire,BMPM,BMPM,13,M,27,2001-02-16
+2001,GALLAND,Mathieu,Caporal Volontaire,Caporal,SPV,CIS de FESSENHEIM,SDIS 68,68,M,18,2001-02-20
+2001,RAVACHE,Loïc,Caporal Chef Volontaire,Caporal-Chef,SPV,CIS de MONTOIR DE BRETAGNE,SDIS 44,44,M,39,2001-04-01
+2001,PAULETTO,Bernard,Adjudant-Chef Professionnel,Adjudant,SPP,CI de CORNEILLE,SDIS 69,69,M,53,2001-04-05
+2001,DELARBRE,Valéry,Caporal-Chef Professionnel,Caporal-Chef,SPP,CIS de BRIOUDE,SDIS 43,43,M,37,2001-05-19
+2001,AUZUECH,Eric,Caporal-Chef Volontaire,Caporal-Chef,SPV,CIS de MILLAU,SDIS 12,12,M,39,2001-05-19
+2001,DURAND,Jérôme,Caporal Volontaire,Caporal,SPV,CSP de REDON,SDIS 35,35,M,23,2001-06-21
+2001,LEONE,Christophe,Caporal Chef Volontaire,Caporal-Chef,SPV,CIS de JOINVILLE,SDIS 52,52,M,28,2001-07-04
+2001,PIERROT,Jean-François,Lieutenant Volontaire,Lieutenant,SPV,CIS de JOINVILLE,SDIS 52,52,M,43,2001-07-04
+2001,AUTES,Robert,Sergent-Chef volontaire,Sergent,SPV,CIS d'ENSUES,SDIS 13,13,M,54,2001-07-05
+2001,DELAIR,Jean-Marie,Caporal Volontaire,Caporal,SPV,CIS de COUDES,SDIS 63,63,M,49,2001-07-22
+2001,GUILLOT,Gérard,Caporal Volontaire,Caporal,SPV,CIS de COUDES,SDIS 63,63,M,50,2001-07-22
+2001,GROSSELIN,Jacky,Sergent Chef Volontaire,Sergent,SPV,CIS de FUMAY HAYBES,SDIS 08,8,M,50,2001-08-08
+2001,SANCHEZ,Jean-Louis,Sapeur 2ème Classe Volontaire,2ème Classe,SPV,CIS de SAINT GENIES DE MALGOIRES,SDIS 30,30,M,42,2001-10-07
+2001,RANDON,Jean-Claude,Sergent Chef Volontaire,Sergent,SPV,Corps Départemental de LE CAYLAR,SDIS 34,34,M,43,2001-11-02
+2001,DOUCHET,Daniel,Caporal Chef Volontaire,Caporal-Chef,SPV,CIS de PAS EN ARTOIS,SDIS 62,62,M,50,2001-12-08
+2001,OLIVIER,Yannick,Caporal Volontaire,Caporal,SPV,CIS de Saint PHILIBERT DE GRAND LIEU,SDIS 44,44,M,45,2001-12-27
+2000,GARNIER,Dominique,Sergent Professionnel,Sergent,SPP,CIS de MELUN,SDIS 77,77,M,43,2000-02-03
+2000,LARROQUETTE,Jean-Claude,Adjudant-Chef Professionnel,Adjudant,SPP,CIS de MAGESCQ,SDIS 40,40,M,51,2000-03-13
+2000,MENDIVE,Christian,Lieutenant Volontaire,Lieutenant,SPV,CIS d'AMBERT,SDIS 63,63,M,45,2000-03-18
+2000,BAUGE,Yohann,Sapeur-Pompier Volontaire,Sapeur,SPV,CPI de FONDETTES,SDIS 37,37,M,17,2000-04-06
+2000,FRANCES,Olivier,Lieutenant Professionnel,Lieutenant,SPP,CSP de NIMES,SDIS 30,30,M,32,2000-04-21
+2000,CLARISSE,Jacques,Lieutenant Professionnel,Lieutenant,SPP,CIS de Douaisis,SDIS 59,59,M,31,2000-05-22
+2000,MARTIN,Alexandre,Caporal Volontaire,Caporal,SPV,CSP d'Is-en-Bassigny,SDIS 52,52,M,22,2000-05-28
+2000,BAUDRY,Anthony,Sapeur 1ère Classe,Sapeur,SPV,BSPP,BSPP,75,M,24,2000-07-07
+2000,LECLERC,Olivier,Adjudant-Chef Professionnel,Adjudant,SPP,CSP d'Arles,SDIS 13,13,M,37,2000-07-08
+2000,JULIEN,Pierre,Sapeur Volontaire,Sapeur,SPV,CSP d'Arles,SDIS 13,13,M,22,2000-07-08
+2000,BESSON,Christian,Adjudant Professionnel,Adjudant,SPP,CIS de Seyssinet,SDIS 38,38,M,48,2000-07-15
+2000,OILLIC,David,Caporal Volontaire,Caporal,SPV,UIISC n° 1,SÉCURITÉ CIVILE,28,M,25,2000-08-13
+2000,COUSSEAU,Gaël,Sapeur 1ère Classe Volontaire,Sapeur,SPV,UIISC n° 1,SÉCURITÉ CIVILE,28,M,19,2000-08-13
+2000,QUESNE,François,Sapeur 2e Classe Volontaire,2ème Classe,SPV,CIS de Pierrelatte,SDIS 26,26,M,19,2000-08-15
+2000,DELMARRE,Bruno,Caporal Chef Professionnel,Caporal-Chef,SPP,CIS de LILLERS,SDIS 62,62,M,45,2000-09-13
+2000,CAMEAU,Nicolas,Sapeur 2ème Classe Appelé du contingent,2ème Classe,SPV,UIISC n° 5,SÉCURITÉ CIVILE,20,M,23,2000-09-17
+2000,TRINQUE,Paul,Copilote,Copilote,,UUISC,UUISC,,M,,2000-09-06
+2000,FAUVEL,Pascal,Sapeur 2ème Classe Appelé du contingent,2ème Classe,SPV,UIISC n° 5,SÉCURITÉ CIVILE,20,M,22,2000-10-11
+2000,MAIRE,Denis,Capitaine Volontaire,Capitaine,SPV,CSP de Baccarat,SDIS 54,54,M,50,2000-11-05
+2000,LE GOUANVIC,Joël,Caporal Chef Professionnel,Caporal-Chef,SPP,CIS de Hennebont,SDIS 56,56,M,51,2000-11-21
+2004,NAUDÉ,Dominique,Sergent,Sergent,SPP,UIISC n°5,SÉCURITÉ CIVILE,20,M,29,1989-08-28
+2005,WUYAM,Jean-Paul,Caporal Chef,Caporal,SPP,CIS de SAINT GAUDENS,SDIS 31,31,M,52,1998-10-17
