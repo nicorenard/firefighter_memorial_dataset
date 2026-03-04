@@ -19,8 +19,6 @@ Les données résultent du croisement de **sources publiques et accessibles** :
 - Site Resurrexit – décès en service commandé  
   https://www.resurrexit.fr
 
-Chaque enregistrement comporte une colonne `source` indiquant l’origine de l’information.
-
 ---
 
 ## Méthodologie
@@ -53,18 +51,9 @@ Le fichier CSV contient notamment les champs suivants :
 - Certaines données anciennes sont incomplètes par nature,
 - Le genre est parfois déduit et peut comporter une marge d’incertitude.
 
----
-
-## Usages recommandés
-Ce jeu de données est destiné à :
-- des analyses statistiques globales,
-- des travaux de mémoire,
-- des publications OpenData.
-
-Il ne doit pas être utilisé comme unique source pour une qualification juridique individuelle.
-
 
 ---
 
 ## Mise à jour
 Mise à jour : annuelle
+
